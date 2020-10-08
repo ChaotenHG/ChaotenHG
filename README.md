@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Web Development
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact of the Day: [fact]
 
 ### Spotify Playing 🎧
 
@@ -52,3 +52,4 @@
 
 [website]: https://chaoten.xyz
 [twitter]: https://twitter.com/ChaotenHG
+[fact]: Test
