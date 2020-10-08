@@ -6,13 +6,12 @@
 ## I'm a Developer
 
 - 🌱 I’m currently learning Web Development
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Chaoten's Spotify Playing" width="350" />](https://open.spotify.com/user/oha9kkq8wjmidg3xn6lqvwkaw)
+[<img src="https://spotify-three.vercel.app/api/spotify" alt="Chaoten's Spotify Playing" width="350" />](https://open.spotify.com/user/oha9kkq8wjmidg3xn6lqvwkaw)
 
 ### Connect with me:
 
