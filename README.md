@@ -17,8 +17,8 @@
 
 [<img align="left" alt="chaoten.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ChaotenHG | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Chaoten | Teanspeak" width="22px" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-logo-shapes/250/teamspeak_logo-512.png" />]
-[teamspeak]
+[<img align="left" alt="ChaotenHG | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-logo-shapes/250/teamspeak_logo-512.png" />][twitter]
+
 
 <br />
 
