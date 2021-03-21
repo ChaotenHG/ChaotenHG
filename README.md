@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=chaoten.xyz&style=for-the-badge&url=https%3A%2F%2Fchaoten.xyz)](https://chaoten.xyz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ChaotenHG?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FChaotenHG&screen_name=ChaotenHG)
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/undefined?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
 ## I'm a Developer
 
