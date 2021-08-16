@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning Web Development
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact of the Day: Test
 
 ### Spotify Playing 🎧
 
