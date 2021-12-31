@@ -5,7 +5,7 @@
 ## I'm a Developer
 
 - 🌱 I’m currently learning Web Development
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Spotify Playing 🎧
 
